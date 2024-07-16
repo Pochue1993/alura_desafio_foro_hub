@@ -1,17 +1,17 @@
 # Practicando Spring
 
-![alura](https://github.com/user-attachments/assets/61134662-73ef-418d-ab40-4fad6f6ef9ca)
+![WhatsApp Image 2024-07-15 at 9 43 49 PM (6)](https://github.com/user-attachments/assets/86e4e673-3039-4d16-9169-b614d1a3a04d)
 
 En este desafío de programación de Alura Latam, Conocemos los foros que hay en la Pagina de Alura ya que un foro es un espacio donde todos los participantes de la plataforma pueden plantear sus preguntas sobre determinados tópicos y vamos a replicar este proceso a nivel de back end y, para eso, crearemos una API REST usando Spring.
 
 ## ForoHub
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/2c22611e-1f8c-4eca-bd7a-d7839102c6dd">
+   <img src="https://github.com/user-attachments/assets/bf92cde2-eb13-4160-8564-9d7f3f6e3494">
    </p>
 
 
-![descargar (7)](https://github.com/user-attachments/assets/390d5292-46cb-4849-ac3e-1fc9d4cdb7fd)  ![descargar (8)](https://github.com/user-attachments/assets/6a9ceabb-4502-4f5c-9d49-b587562f6450) ![descargar (11)](https://github.com/user-attachments/assets/3ef70064-0d52-487a-a0e6-746ed7d3110f) ![descargar (9)](https://github.com/user-attachments/assets/8fc61c7d-e44a-418c-83a7-9712ee58a7d0) 
+![descargar (7)](https://github.com/user-attachments/assets/fc2ef868-dbce-4c30-b62d-f32bc053530a)  ![descargar (8)](https://github.com/user-attachments/assets/5155708a-b33a-4bfb-b1eb-091fba16d65c) ![descargar (11)](https://github.com/user-attachments/assets/39bac1a6-4321-45da-8a4c-846bdee558d0) ![descargar (9)](https://github.com/user-attachments/assets/2352b88f-630e-453b-9d82-0acc21b6258b)
 
 ### Resumen del Proyecto
 
@@ -36,11 +36,12 @@ En resumen, nuestro objetivo con este challenge es implementar una API REST util
 
 - Java JDK 17
 
-![6695c6ccf145a_download](https://github.com/user-attachments/assets/96ab0b6c-c7c0-4af5-a84e-8b783295dfc8)
+![WhatsApp Image 2024-07-15 at 9 43 49 PM (8)](https://github.com/user-attachments/assets/0eb87301-abdd-4ff5-b7be-506b14119f9e)
+
 - Eclipse
 
-![th](https://github.com/user-attachments/assets/84413af7-6518-4f01-a19c-df26953fcbf9)
+![WhatsApp Image 2024-07-15 at 9 43 49 PM (5)](https://github.com/user-attachments/assets/ca4280b1-2964-4638-a823-24b47d2388ec)
 
 - MySQL
 
-![6695e1504efbb_download](https://github.com/user-attachments/assets/efc62164-10d7-40bc-8f38-a3d857e4f10e)
+![WhatsApp Image 2024-07-15 at 9 43 48 PM (3)](https://github.com/user-attachments/assets/e2b2fe3e-7c36-423b-a7ea-e1330c1abb5c)
